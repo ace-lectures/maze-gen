@@ -10,7 +10,7 @@
   <groupId>io.github.ace-lectures.2aa4</groupId>
   <artifactId>mazegen</artifactId>
   <version>1.0</version>
-  <name>McSCert :: 2AA4 :: Maze Generator</name>
+  <name>McSCert :: 2AA4 :: Maze Generator 1</name>
 
   <properties>
     <mainClass>ca.mcscert.se2aa4.tools.mazegen.Main</mainClass>
